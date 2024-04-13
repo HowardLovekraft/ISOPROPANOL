@@ -1,0 +1,5 @@
+.idea/
+database/backups/
+__pycache__/
+env/venv.env
+tests/
